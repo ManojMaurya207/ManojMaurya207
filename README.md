@@ -44,7 +44,7 @@
   <img width="12" />
   <a href="https://www.instagram.com/manoj_maurya207_/" ><img src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.21447292.1687331905" height="35" alt="instagram logo"  /></a>
   <img width="12" />
-  <a href ="manojkumarmaurya9372@gmail.com"><img src="https://cdn-icons-png.freepik.com/512/5968/5968534.png?uid=R108457228&ga=GA1.1.21447292.1687331905" height="35" alt="gmail logo"  /></a>
+  <a href ="mailto:manojkumarmaurya9372@gmail.com"><img src="https://cdn-icons-png.freepik.com/512/5968/5968534.png?uid=R108457228&ga=GA1.1.21447292.1687331905" height="35" alt="gmail logo"  /></a>
   <img width="12" />
   <a href="https://www.linkedin.com/in/manoj-maurya/"><img src="https://cdn-icons-png.freepik.com/512/2504/2504923.png?uid=R108457228&ga=GA1.1.21447292.1687331905" height="35" alt="linkedin logo"  />
 </div></a>
