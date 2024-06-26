@@ -1,4 +1,5 @@
-### Hi there, I am Manoj...👋
+
+### Hi there, I am Manoj...<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">👋
 <h2 align="center">Welcome to my coding playground 👨‍💻</h2>
 
 <div align="center">
